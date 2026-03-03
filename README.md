@@ -7,6 +7,10 @@
 
 ## Introduction
 
+<a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">
+  Open ChatGPT
+</a>
+
 This project implements a **Constraint Satisfaction Problem (CSP)** solution for the N-Queens problem on an `n x n` chessboard. 
 The goal is to place `n` queens on the board such that no two queens attack each other.
 
